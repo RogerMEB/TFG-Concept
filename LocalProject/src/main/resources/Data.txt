@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Pol",
+        "response":"Prefiero la segunda opción",
+        "ratings":
+        [
+         {
+               "name":"Jaume",
+               "rating":2.5
+         },{
+               "name":"Pau",
+               "rating":0.0
+         },{
+               "name":"Juan",
+               "rating":4.5
+         },{
+               "name":"Marta",
+               "rating": 0.0
+         }
+         ]
+    },
+    {
+            "name":"Jaume",
+            "response":"Prefiero la primera opción",
+            "ratings":[
+            {
+                 "name":"Pol",
+                 "rating":2.5
+            },{
+                 "name":"Pau",
+                 "rating":0.0
+            },{
+                 "name":"Juan",
+                 "rating":2.5
+            },{
+                 "name":"Marta",
+                 "rating": 0.0
+            }
+            ]
+    },
+    {
+            "name":"Pau",
+            "response":"Prefiero la tercera opción",
+            "ratings":[
+            {
+                "name":"Pol",
+                "rating":0.0
+            },{
+                "name":"Jaume",
+                "rating":0.0
+            },{
+                "name":"Juan",
+                "rating":0.0
+            },{
+                "name":"Marta",
+                "rating": 4.5
+            }
+            ]
+    },
+    {
+            "name":"Juan",
+            "response":"Prefiero la segunda opción",
+            "ratings":[
+            {
+                "name":"Pol",
+                "rating":4.5
+            },{
+                "name":"Jaume",
+                "rating":2.5
+            },{
+                "name":"Pau",
+                "rating":0.0
+            },{
+                "name":"Marta",
+                "rating": 0.0
+            }
+            ]
+    },
+    {
+            "name":"Marta",
+            "response":"Prefiero la tercera opción",
+            "ratings":[
+             {
+               "name":"Pol",
+               "rating":0.0
+             },{
+               "name":"Jaume",
+               "rating":0.0
+             },{
+               "name":"Pau",
+               "rating":4.5
+             },{
+               "name":"Juan",
+               "rating": 0.0
+             }
+            ]
+    }
+]
